@@ -1,0 +1,46 @@
+
+/* firstpage.css */
+
+/* signup.css */
+
+/* Container styles */
+
+
+ .l{
+    float: left;
+    margin-left: 10%;
+
+ } 
+ .r{
+    float:right;
+    margin-right: 15%;
+
+ }
+  
+ 
+ 
+ 
+  
+  /* Button styles */
+ 
+  
+  /* Button Hover styles */
+  
+  
+  
+  /* You can add more styles based on your preferences */
+  .laa{
+    margin-top: 35%;
+    justify-content: center;
+  }
+  .bu{
+  
+        background-color: #fdfeff;
+        color: #fff;
+        border: none;
+        padding: 10px 20px;
+        cursor: pointer;
+        text-align: center;
+       
+  }
+  
