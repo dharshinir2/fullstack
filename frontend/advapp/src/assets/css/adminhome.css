@@ -1,0 +1,28 @@
+.sd{
+  float: left;
+}
+.others{
+ 
+  /* float:right; */
+  justify-content: center;
+  margin-right: 40px;
+}
+.cardins{
+  margin-top: 30px;
+  margin-left: 100px;
+  border-radius: 10px;
+  width:87%;
+  height:30%;
+  box-shadow: 0 5px 5px black;
+  border:0.2px solid black;
+}
+.imgins{
+  width:40%;
+  height:30%;
+  margin-left: 0.06%;
+}
+
+.pins{
+  margin-left: 460px;
+  margin-top: -270px;
+}
